@@ -1,0 +1,1 @@
+In this repo, I will collect the codes and results for my honours thesis. Currently, I have my 1D MP-Iteration notebooks for the arclength and Hessian mesh density functions where $u(x) = \arctan(\beta x).$
